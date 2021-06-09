@@ -1,0 +1,3 @@
+Romi Artificial Intelligence
+- Belajar Semua Librrary Python
+- Numpy, Pandas dan Matlotib
