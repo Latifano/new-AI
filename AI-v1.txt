@@ -1,5 +1,5 @@
 Romi Artificial Intelligence
 - Belajar Semua Librrary Python
 - Numpy, Pandas dan Matlotib
-- Belajar Object Oriented Design
 - Explore ilmu baru
+- Belajar Object Oriented Programming
