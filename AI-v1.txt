@@ -3,3 +3,4 @@ Romi Artificial Intelligence
 - Numpy, Pandas dan Matlotib
 - Explore ilmu baru
 - Belajar Object Oriented Programming
+- Implementasi Membuat Sistem BOT WA
