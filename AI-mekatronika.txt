@@ -3,3 +3,4 @@
   Belajar Pendahuluan
 - Belajar Elektronika
   Belajar RLD
+  Belajar Sistem digital
