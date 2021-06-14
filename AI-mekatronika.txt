@@ -1,5 +1,9 @@
 - Mekatronika
 - Belajar Mekanik
   Belajar Pendahuluan
+  Belajar Fundmental Mekanik
 - Belajar Elektronika
   Belajar RLD
+  Belajar Sistem Bilangan
+
+
