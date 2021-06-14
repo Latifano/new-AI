@@ -4,6 +4,4 @@
   Belajar Fundmental Mekanik
 - Belajar Elektronika
   Belajar RLD
-  Belajar Sistem Bilangan
-
-
+  Belajar Sistem digital
