@@ -4,3 +4,4 @@ Romi Artificial Intelligence
 - Explore ilmu baru
 - Belajar Object Oriented Programming
 - Implementasi Membuat Sistem BOT WA
+- Belajar Fundamental
